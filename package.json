@@ -1,6 +1,6 @@
 {
   "homepage": "http://july-1390.github.io/table-names",
-  "name": "names-adder",
+  "name": "table-names",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
