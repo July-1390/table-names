@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Persons Table Web App with Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[See Live Demo :point_right: ](https://july-1390.github.io/table-names/)
 
 ## Available Scripts
 

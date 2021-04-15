@@ -31,7 +31,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h2 className="title">People Already Here</h2>
+        <h2 className="title"> Added People</h2>
         <Table people={people} handleRemovePerson={handleRemovePerson} />
         <FormAddPeople createPerson={createPerson} />
       </div>
