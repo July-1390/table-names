@@ -3,6 +3,8 @@
 [See Live Demo :point_right: ](https://july-1390.github.io/table-names/)
 This is minimal react web app where you can add new person into the table
 
+![How works my app](public/img/how-table-works.gif)
+
 ## About the project
 
 Web App consist of two components Table and Form
@@ -24,3 +26,4 @@ Simple and concise web application design
 ## Contributions
 
 Your contributions are always welcome!
+how-tablw-works
